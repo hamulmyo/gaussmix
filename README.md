@@ -6,7 +6,7 @@ adaptive shrinkage).
 Here are my analyses so far:
 
 + [Compare the computational expense of running different 
-algorithms](docs/comp_time/comp_time.md).
+algorithms](docs/comp_time.html).
 
-+ [Compare PMD and Flash methods](docs/comp_flash/comp_flash.md).
++ [Compare PMD and Flash methods](docs/comp_flash.html).
 
